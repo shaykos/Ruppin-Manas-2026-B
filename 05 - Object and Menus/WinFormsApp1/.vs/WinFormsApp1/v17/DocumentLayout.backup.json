@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|c:\\users\\ruppin\\documents\\github\\ruppin-manas-2026-b\\05 - object and menus\\winformsapp1\\empform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|solutionrelative:empform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|c:\\users\\ruppin\\documents\\github\\ruppin-manas-2026-b\\05 - object and menus\\winformsapp1\\empform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|solutionrelative:empform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|c:\\users\\ruppin\\documents\\github\\ruppin-manas-2026-b\\05 - object and menus\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|c:\\users\\ruppin\\documents\\github\\ruppin-manas-2026-b\\05 - object and menus\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|c:\\users\\ruppin\\documents\\github\\ruppin-manas-2026-b\\05 - object and menus\\winformsapp1\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95845621-0682-43BE-B029-059E7D8B2C49}|WinFormsApp1.csproj|solutionrelative:classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,57 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpForm.cs",
-              "DocumentMoniker": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\EmpForm.cs",
-              "RelativeDocumentMoniker": "EmpForm.cs",
-              "ToolTip": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\EmpForm.cs",
-              "RelativeToolTip": "EmpForm.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T11:01:51.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmpForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\EmpForm.cs",
-              "RelativeDocumentMoniker": "EmpForm.cs",
-              "ToolTip": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\EmpForm.cs [Design]",
-              "RelativeToolTip": "EmpForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T10:57:42.446Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wB4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T10:42:22.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\Classes\\Employee.cs",
-              "RelativeDocumentMoniker": "Classes\\Employee.cs",
-              "ToolTip": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\Classes\\Employee.cs",
-              "RelativeToolTip": "Classes\\Employee.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T10:35:09.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ruppin\\Documents\\GitHub\\Ruppin-Manas-2026-B\\05 - Object and Menus\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

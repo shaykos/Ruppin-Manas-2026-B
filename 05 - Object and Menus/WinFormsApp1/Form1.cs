@@ -10,7 +10,8 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            IsMdiContainer = true;
+            pnlEmployee.Visible = false;
+            pnlManager.Visible = false;
         }
 
         private void btnCreate_Click(object sender, EventArgs e)
@@ -26,15 +27,39 @@ namespace WinFormsApp1
                             MessageBox.Show("name is empty", "invalid info", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         break;
                     case "Employee":
-                        EmpForm empForm = new EmpForm();
-                        empForm.MdiParent = this;
-                        empForm.Show();
+                        if (txtName.Text != "" && txtSalary.Text != "")
+                            people[pointer++] = new Employee(txtName.Text, double.Parse(txtSalary.Text));
                         break;
                     case "Manager":
+                        if (txtName.Text != "" && txtBonus.Text != "")
+                            people[pointer++] = new Employee(txtName.Text, double.Parse(txtSalary.Text));
                         break;
                 }
             }
 
+            foreach (Person person in people)
+            {
+                lblAllPeople.Text += person.Print() + "\n";
+            }
+        }
+
+        private void cboRole_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch (cboRole.SelectedItem.ToString())
+            {
+                case "Person":
+                    pnlEmployee.Visible = false;
+                    pnlManager.Visible = false;
+                    break;
+                case "Employee":
+                    pnlEmployee.Visible = true;
+                    pnlManager.Visible = false;
+                    break;
+                case "Manager":
+                    pnlManager.Visible = true;
+                    pnlEmployee.Visible = true;
+                    break;
+            }
         }
     }
 }
